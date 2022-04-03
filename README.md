@@ -1,1 +1,1 @@
-# backbone-development
+# Backbone.js
