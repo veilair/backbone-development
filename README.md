@@ -20,6 +20,18 @@ Backbone is known for being lightweight, as its only hard dependency is on one J
 It is designed for **developing single-page web applications, and for keeping various parts of web applications (e.g. multiple clients and the server) synchronized.** 
 - Backbone was created by Jeremy Ashkenas, who is also known for CoffeeScript and Underscore. js.
 
+- It is one of the most popular JavaScript frameworks. It is effortless to understand and learn. It can be used to create Single Page Applications. The development of this framework involves the idea that all the server-side functions must flow through an API, which would help achieve complex functionalities by writing less code.
+
+### Features:
+
+> BackboneJS uses JavaScript functions, making the development of applications and the frontend in a much easier. 
+> Building blocks such as models, views, events, routers, and collections are provided for assembling the client-side web applications.
+> It is a simple library that helps in separating business and user interface logic.
+> It is a free and open-source library and contains over 100 available extensions.
+> It is a backbone for any project and helps in the organization of the code.
+> BackboneJS has a soft dependency on jQuery and a hard dependency on Underscore.js.
+> It allows us to create client-side web applications or mobile applications in a well-structured and organized format.
+
 ## Table of Contents
 
 ## General
