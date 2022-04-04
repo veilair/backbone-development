@@ -24,13 +24,13 @@ It is designed for **developing single-page web applications, and for keeping va
 
 ### Features:
 
-> BackboneJS uses JavaScript functions, making the development of applications and the frontend in a much easier. 
-> Building blocks such as models, views, events, routers, and collections are provided for assembling the client-side web applications.
-> It is a simple library that helps in separating business and user interface logic.
-> It is a free and open-source library and contains over 100 available extensions.
-> It is a backbone for any project and helps in the organization of the code.
-> BackboneJS has a soft dependency on jQuery and a hard dependency on Underscore.js.
-> It allows us to create client-side web applications or mobile applications in a well-structured and organized format.
+- BackboneJS uses JavaScript functions, making the development of applications and the frontend in a much easier. 
+- Building blocks such as models, views, events, routers, and collections are provided for assembling the client-side web applications.
+- It is a simple library that helps in separating business and user interface logic.
+- It is a free and open-source library and contains over 100 available extensions.
+- It is a backbone for any project and helps in the organization of the code.
+- BackboneJS has a soft dependency on jQuery and a hard dependency on Underscore.js.
+- It allows us to create client-side web applications or mobile applications in a well-structured and organized format.
 
 ## Table of Contents
 
