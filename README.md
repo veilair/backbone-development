@@ -22,7 +22,7 @@ It is designed for **developing single-page web applications, and for keeping va
 
 - It is one of the most popular JavaScript frameworks. It is effortless to understand and learn. It can be used to create Single Page Applications. The development of this framework involves the idea that all the server-side functions must flow through an API, which would help achieve complex functionalities by writing less code.
 
-### Features:
+### `Features:`
 
 - BackboneJS uses JavaScript functions, making the development of applications and the frontend in a much easier. 
 - Building blocks such as models, views, events, routers, and collections are provided for assembling the client-side web applications.
